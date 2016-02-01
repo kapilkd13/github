@@ -1,1 +1,8 @@
-THIS IS A TEST REPOSITORY
+This is a repository where we implemented a judge for organizing a 2-player bot game of "chain reaction".
+game played- chain reaction.
+Technologies used- Java,C
+java concepts used-Inheritance,polymorphism, EDT,Concurrency,Threding and processing.
+classess used- processbuilder,process,Swing,Threads.
+compiler used-gcc
+Interface-runnable.
+
